@@ -1,0 +1,19 @@
+{
+  "name": "mybackend",
+  "version": "1.0.0",
+  "description": "backend for my project",
+  "keywords": [
+    "javascript",
+    "backend",
+    "express",
+    "mongoDB",
+    "mongoose"
+  ],
+  "license": "ISC",
+  "author": "Piyush Mohanty",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
